@@ -1,0 +1,33 @@
+name: Bundesliga-Quoten aktualisieren
+
+on:
+  schedule:
+    - cron: "0 5,15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Quoten abrufen
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python3 fetch_odds.py
+
+      - name: Aenderung committen (nur wenn sich Quoten geaendert haben)
+        run: |
+          git config user.name "odds-bot"
+          git config user.email "odds-bot@users.noreply.github.com"
+          git add odds_bl1.json
+          if git diff --staged --quiet; then
+            echo "Keine Aenderung an den Quoten."
+          else
+            git commit -m "Quoten-Update $(date -u +%FT%TZ)"
+            git push
+          fi
