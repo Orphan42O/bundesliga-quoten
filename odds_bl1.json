@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T07:37:07Z",
+ "generated": "2026-08-08T16:01:14Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -148,7 +148,7 @@
    "h2h": {
     "home": 2.38,
     "draw": 3.45,
-    "away": 2.8
+    "away": 2.82
    },
    "totals": [
     {
@@ -233,9 +233,9 @@
    "away": "Werder Bremen",
    "n_books": 19,
    "h2h": {
-    "home": 2.02,
+    "home": 2.03,
     "draw": 3.55,
-    "away": 3.5
+    "away": 3.55
    },
    "totals": [
     {
@@ -246,8 +246,8 @@
     },
     {
      "point": 2.75,
-     "over": 1.95,
-     "under": 1.88,
+     "over": 1.94,
+     "under": 1.89,
      "n": 1
     }
    ]
