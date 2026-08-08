@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T17:36:41Z",
+ "generated": "2026-08-08T07:37:07Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -11,8 +11,8 @@
    "n_books": 20,
    "h2h": {
     "home": 1.29,
-    "draw": 6.405,
-    "away": 7.9
+    "draw": 6.4,
+    "away": 8.0
    },
    "totals": [
     {
@@ -23,8 +23,8 @@
     },
     {
      "point": 3.5,
-     "over": 1.6,
-     "under": 2.32,
+     "over": 1.63,
+     "under": 2.23,
      "n": 7
     },
     {
@@ -110,14 +110,14 @@
    "n_books": 21,
    "h2h": {
     "home": 1.54,
-    "draw": 4.5,
+    "draw": 4.6,
     "away": 5.3
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.46,
-     "under": 2.68,
+     "over": 1.44,
+     "under": 2.72,
      "n": 3
     },
     {
@@ -148,7 +148,7 @@
    "h2h": {
     "home": 2.38,
     "draw": 3.45,
-    "away": 2.82
+    "away": 2.8
    },
    "totals": [
     {
