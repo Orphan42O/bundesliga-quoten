@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T16:01:14Z",
+ "generated": "2026-08-09T07:58:34Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -8,7 +8,7 @@
    "commence": "2026-08-28T18:30:00Z",
    "home": "Bayern Munich",
    "away": "VfB Stuttgart",
-   "n_books": 20,
+   "n_books": 21,
    "h2h": {
     "home": 1.29,
     "draw": 6.4,
@@ -41,7 +41,7 @@
    "away": "TSG Hoffenheim",
    "n_books": 21,
    "h2h": {
-    "home": 2.83,
+    "home": 2.85,
     "draw": 3.65,
     "away": 2.29
    },
@@ -72,7 +72,7 @@
    "away": "Bayer Leverkusen",
    "n_books": 21,
    "h2h": {
-    "home": 5.23,
+    "home": 5.2,
     "draw": 4.5,
     "away": 1.55
    },
@@ -91,13 +91,13 @@
     },
     {
      "point": 3.25,
-     "over": 1.99,
+     "over": 1.98,
      "under": 1.85,
      "n": 1
     },
     {
      "point": 3.5,
-     "over": 2.2,
+     "over": 2.17,
      "under": 1.66,
      "n": 7
     }
@@ -111,7 +111,7 @@
    "h2h": {
     "home": 1.54,
     "draw": 4.6,
-    "away": 5.3
+    "away": 5.2
    },
    "totals": [
     {
@@ -148,7 +148,7 @@
    "h2h": {
     "home": 2.38,
     "draw": 3.45,
-    "away": 2.82
+    "away": 2.8
    },
    "totals": [
     {
@@ -171,9 +171,9 @@
    "away": "SC Paderborn",
    "n_books": 21,
    "h2h": {
-    "home": 1.69,
-    "draw": 4.0,
-    "away": 4.62
+    "home": 1.68,
+    "draw": 3.95,
+    "away": 4.6
    },
    "totals": [
     {
@@ -203,8 +203,8 @@
    "n_books": 21,
    "h2h": {
     "home": 1.33,
-    "draw": 5.4,
-    "away": 8.4
+    "draw": 5.5,
+    "away": 8.2
    },
    "totals": [
     {
@@ -240,8 +240,8 @@
    "totals": [
     {
      "point": 2.5,
-     "over": 1.74,
-     "under": 2.075,
+     "over": 1.72,
+     "under": 2.09,
      "n": 12
     },
     {
