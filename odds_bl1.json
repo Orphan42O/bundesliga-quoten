@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-11T08:32:05Z",
+ "generated": "2026-08-11T18:07:55Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -17,14 +17,14 @@
    "totals": [
     {
      "point": 2.5,
-     "over": 1.25,
+     "over": 1.24,
      "under": 3.95,
      "n": 3
     },
     {
      "point": 3.5,
      "over": 1.63,
-     "under": 2.23,
+     "under": 2.25,
      "n": 7
     },
     {
@@ -48,7 +48,7 @@
    "totals": [
     {
      "point": 2.5,
-     "over": 1.55,
+     "over": 1.54,
      "under": 2.38,
      "n": 7
     },
@@ -60,8 +60,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.3,
-     "under": 1.55,
+     "over": 2.26,
+     "under": 1.6,
      "n": 3
     }
    ]
@@ -72,7 +72,7 @@
    "away": "Bayer Leverkusen",
    "n_books": 21,
    "h2h": {
-    "home": 5.23,
+    "home": 5.2,
     "draw": 4.5,
     "away": 1.55
    },
@@ -134,7 +134,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.11,
+     "over": 2.135,
      "under": 1.7,
      "n": 8
     }
@@ -203,7 +203,7 @@
    "n_books": 21,
    "h2h": {
     "home": 1.33,
-    "draw": 5.4,
+    "draw": 5.5,
     "away": 8.4
    },
    "totals": [
