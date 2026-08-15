@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T05:56:37Z",
+ "generated": "2026-08-15T15:48:14Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -10,8 +10,8 @@
    "away": "VfB Stuttgart",
    "n_books": 21,
    "h2h": {
-    "home": 1.29,
-    "draw": 6.35,
+    "home": 1.3,
+    "draw": 6.4,
     "away": 8.0
    },
    "totals": [
@@ -24,7 +24,7 @@
     {
      "point": 3.5,
      "over": 1.57,
-     "under": 2.33,
+     "under": 2.35,
      "n": 7
     },
     {
@@ -41,9 +41,9 @@
    "away": "TSG Hoffenheim",
    "n_books": 21,
    "h2h": {
-    "home": 2.8,
+    "home": 2.85,
     "draw": 3.6,
-    "away": 2.32
+    "away": 2.3
    },
    "totals": [
     {
@@ -91,13 +91,13 @@
     },
     {
      "point": 3.25,
-     "over": 1.98,
+     "over": 1.99,
      "under": 1.85,
      "n": 1
     },
     {
      "point": 3.5,
-     "over": 2.17,
+     "over": 2.18,
      "under": 1.67,
      "n": 7
     }
@@ -154,13 +154,13 @@
     {
      "point": 2.5,
      "over": 1.71,
-     "under": 2.11,
+     "under": 2.12,
      "n": 12
     },
     {
      "point": 2.75,
-     "over": 1.91,
-     "under": 1.93,
+     "over": 1.89,
+     "under": 1.94,
      "n": 1
     }
    ]
@@ -203,7 +203,7 @@
    "n_books": 21,
    "h2h": {
     "home": 1.33,
-    "draw": 5.4,
+    "draw": 5.5,
     "away": 8.5
    },
    "totals": [
@@ -258,9 +258,9 @@
    "away": "FC Schalke 04",
    "n_books": 21,
    "h2h": {
-    "home": 2.11,
-    "draw": 3.7,
-    "away": 3.1
+    "home": 2.12,
+    "draw": 3.65,
+    "away": 3.06
    },
    "totals": [
     {
