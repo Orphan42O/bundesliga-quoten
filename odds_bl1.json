@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T15:49:09Z",
+ "generated": "2026-08-17T06:05:08Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -17,7 +17,7 @@
    "totals": [
     {
      "point": 2.5,
-     "over": 1.25,
+     "over": 1.24,
      "under": 3.95,
      "n": 3
     },
@@ -60,8 +60,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.26,
-     "under": 1.6,
+     "over": 2.3,
+     "under": 1.55,
      "n": 3
     }
    ]
@@ -97,8 +97,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.18,
-     "under": 1.67,
+     "over": 2.2,
+     "under": 1.65,
      "n": 7
     }
    ]
@@ -109,9 +109,9 @@
    "away": "Borussia Monchengladbach",
    "n_books": 21,
    "h2h": {
-    "home": 1.54,
+    "home": 1.53,
     "draw": 4.6,
-    "away": 5.3
+    "away": 5.32
    },
    "totals": [
     {
@@ -134,8 +134,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.135,
-     "under": 1.7,
+     "over": 2.15,
+     "under": 1.69,
      "n": 8
     }
    ]
@@ -153,7 +153,7 @@
    "totals": [
     {
      "point": 2.5,
-     "over": 1.69,
+     "over": 1.71,
      "under": 2.12,
      "n": 12
     },
