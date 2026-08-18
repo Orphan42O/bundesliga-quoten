@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T15:54:18Z",
+ "generated": "2026-08-18T05:59:38Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -23,21 +23,15 @@
     },
     {
      "point": 3.5,
-     "over": 1.62,
-     "under": 2.2,
-     "n": 3
+     "over": 1.6,
+     "under": 2.32,
+     "n": 7
     },
     {
      "point": 4.0,
      "over": 1.95,
      "under": 1.87,
      "n": 3
-    },
-    {
-     "point": 4.5,
-     "over": 2.335,
-     "under": 1.585,
-     "n": 4
     }
    ]
   },
@@ -140,8 +134,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.15,
-     "under": 1.69,
+     "over": 2.16,
+     "under": 1.675,
      "n": 8
     }
    ]
@@ -152,14 +146,14 @@
    "away": "Eintracht Frankfurt",
    "n_books": 21,
    "h2h": {
-    "home": 2.41,
+    "home": 2.44,
     "draw": 3.52,
     "away": 2.75
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.69,
+     "over": 1.705,
      "under": 2.12,
      "n": 12
     },
@@ -209,7 +203,7 @@
    "n_books": 21,
    "h2h": {
     "home": 1.33,
-    "draw": 5.4,
+    "draw": 5.5,
     "away": 8.5
    },
    "totals": [
@@ -276,16 +270,10 @@
      "n": 10
     },
     {
-     "point": 2.75,
-     "over": 1.81,
-     "under": 2.04,
-     "n": 1
-    },
-    {
      "point": 3.0,
-     "over": 2.005,
-     "under": 1.825,
-     "n": 2
+     "over": 2.05,
+     "under": 1.81,
+     "n": 3
     }
    ]
   }
