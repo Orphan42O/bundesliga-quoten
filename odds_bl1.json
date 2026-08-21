@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T16:04:15Z",
+ "generated": "2026-08-21T06:03:32Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -10,8 +10,8 @@
    "away": "VfB Stuttgart",
    "n_books": 22,
    "h2h": {
-    "home": 1.295,
-    "draw": 6.15,
+    "home": 1.29,
+    "draw": 6.25,
     "away": 8.0
    },
    "totals": [
@@ -43,7 +43,7 @@
    "h2h": {
     "home": 2.9,
     "draw": 3.6,
-    "away": 2.285
+    "away": 2.25
    },
    "totals": [
     {
@@ -135,7 +135,7 @@
     {
      "point": 3.5,
      "over": 2.155,
-     "under": 1.685,
+     "under": 1.7,
      "n": 8
     }
    ]
@@ -172,7 +172,7 @@
    "n_books": 22,
    "h2h": {
     "home": 1.68,
-    "draw": 3.975,
+    "draw": 3.95,
     "away": 4.65
    },
    "totals": [
@@ -202,7 +202,7 @@
    "away": "Hamburger SV",
    "n_books": 22,
    "h2h": {
-    "home": 1.33,
+    "home": 1.325,
     "draw": 5.35,
     "away": 8.45
    },
@@ -233,9 +233,9 @@
    "away": "Werder Bremen",
    "n_books": 21,
    "h2h": {
-    "home": 1.99,
-    "draw": 3.5,
-    "away": 3.45
+    "home": 1.98,
+    "draw": 3.55,
+    "away": 3.58
    },
    "totals": [
     {
