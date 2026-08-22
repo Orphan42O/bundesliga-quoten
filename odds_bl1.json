@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T16:03:58Z",
+ "generated": "2026-08-22T05:58:45Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 9,
@@ -8,10 +8,10 @@
    "commence": "2026-08-28T18:30:00Z",
    "home": "Bayern Munich",
    "away": "VfB Stuttgart",
-   "n_books": 22,
+   "n_books": 24,
    "h2h": {
     "home": 1.29,
-    "draw": 6.25,
+    "draw": 6.27,
     "away": 8.0
    },
    "totals": [
@@ -24,8 +24,8 @@
     {
      "point": 3.5,
      "over": 1.57,
-     "under": 2.35,
-     "n": 7
+     "under": 2.33,
+     "n": 8
     },
     {
      "point": 4.0,
@@ -50,7 +50,7 @@
      "point": 2.5,
      "over": 1.55,
      "under": 2.38,
-     "n": 7
+     "n": 3
     },
     {
      "point": 3.0,
@@ -60,9 +60,9 @@
     },
     {
      "point": 3.5,
-     "over": 2.3,
-     "under": 1.55,
-     "n": 3
+     "over": 2.35,
+     "under": 1.56,
+     "n": 7
     }
    ]
   },
@@ -98,7 +98,7 @@
     {
      "point": 3.5,
      "over": 2.2,
-     "under": 1.65,
+     "under": 1.66,
      "n": 7
     }
    ]
@@ -109,15 +109,15 @@
    "away": "Borussia Monchengladbach",
    "n_books": 22,
    "h2h": {
-    "home": 1.535,
-    "draw": 4.575,
-    "away": 5.285
+    "home": 1.53,
+    "draw": 4.475,
+    "away": 5.225
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.44,
-     "under": 2.72,
+     "over": 1.47,
+     "under": 2.62,
      "n": 3
     },
     {
@@ -128,8 +128,8 @@
     },
     {
      "point": 3.25,
-     "over": 1.94,
-     "under": 1.89,
+     "over": 1.96,
+     "under": 1.88,
      "n": 1
     },
     {
@@ -146,15 +146,15 @@
    "away": "Eintracht Frankfurt",
    "n_books": 22,
    "h2h": {
-    "home": 2.42,
+    "home": 2.44,
     "draw": 3.535,
-    "away": 2.76
+    "away": 2.72
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.68,
-     "under": 2.17,
+     "over": 1.69,
+     "under": 2.15,
      "n": 12
     },
     {
@@ -202,9 +202,9 @@
    "away": "Hamburger SV",
    "n_books": 22,
    "h2h": {
-    "home": 1.325,
-    "draw": 5.4,
-    "away": 8.4
+    "home": 1.33,
+    "draw": 5.45,
+    "away": 8.45
    },
    "totals": [
     {
