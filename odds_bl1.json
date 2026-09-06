@@ -1,56 +1,25 @@
 {
- "generated": "2026-09-05T17:14:01Z",
+ "generated": "2026-09-06T09:13:43Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
- "n_matches": 12,
+ "n_matches": 11,
  "matches": [
-  {
-   "commence": "2026-09-05T16:30:00Z",
-   "home": "FC Schalke 04",
-   "away": "Bayern Munich",
-   "n_books": 16,
-   "h2h": {
-    "home": 9.3,
-    "draw": 4.2,
-    "away": 1.38
-   },
-   "totals": [
-    {
-     "point": 2.0,
-     "over": 1.75,
-     "under": 1.88,
-     "n": 3
-    },
-    {
-     "point": 2.5,
-     "over": 2.23,
-     "under": 1.6,
-     "n": 7
-    }
-   ]
-  },
   {
    "commence": "2026-09-06T13:30:00Z",
    "home": "Hamburger SV",
    "away": "FSV Mainz 05",
    "n_books": 24,
    "h2h": {
-    "home": 2.825,
-    "draw": 3.575,
-    "away": 2.405
+    "home": 2.9,
+    "draw": 3.4,
+    "away": 2.44
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.67,
-     "under": 2.15,
-     "n": 13
-    },
-    {
-     "point": 2.75,
-     "over": 1.96,
-     "under": 1.93,
-     "n": 1
+     "over": 1.82,
+     "under": 2.0,
+     "n": 15
     }
    ]
   },
@@ -60,34 +29,22 @@
    "away": "Augsburg",
    "n_books": 24,
    "h2h": {
-    "home": 1.95,
-    "draw": 3.975,
-    "away": 3.45
+    "home": 1.87,
+    "draw": 4.08,
+    "away": 3.705
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.46,
-     "under": 2.68,
+     "over": 1.39,
+     "under": 2.92,
      "n": 3
     },
     {
-     "point": 3.0,
-     "over": 1.73,
-     "under": 2.12,
-     "n": 1
-    },
-    {
-     "point": 3.25,
-     "over": 1.98,
-     "under": 1.9,
-     "n": 1
-    },
-    {
      "point": 3.5,
-     "over": 2.11,
-     "under": 1.705,
-     "n": 10
+     "over": 2.05,
+     "under": 1.76,
+     "n": 12
     }
    ]
   },
@@ -95,30 +52,30 @@
    "commence": "2026-09-11T18:30:00Z",
    "home": "Union Berlin",
    "away": "FC Schalke 04",
-   "n_books": 19,
+   "n_books": 22,
    "h2h": {
-    "home": 2.04,
-    "draw": 3.7,
-    "away": 3.28
+    "home": 2.1,
+    "draw": 3.72,
+    "away": 3.175
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.55,
-     "under": 2.41,
-     "n": 4
+     "under": 2.38,
+     "n": 5
     },
     {
      "point": 3.0,
-     "over": 1.91,
-     "under": 1.93,
-     "n": 1
+     "over": 1.925,
+     "under": 1.9,
+     "n": 2
     },
     {
      "point": 3.5,
-     "over": 2.33,
-     "under": 1.57,
-     "n": 7
+     "over": 2.35,
+     "under": 1.585,
+     "n": 6
     }
    ]
   },
@@ -126,24 +83,24 @@
    "commence": "2026-09-12T13:30:00Z",
    "home": "Augsburg",
    "away": "Bayer Leverkusen",
-   "n_books": 18,
+   "n_books": 22,
    "h2h": {
-    "home": 4.145,
-    "draw": 4.1,
+    "home": 4.205,
+    "draw": 4.125,
     "away": 1.7
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.405,
+     "over": 1.41,
      "under": 2.85,
-     "n": 4
+     "n": 3
     },
     {
      "point": 3.5,
-     "over": 2.08,
+     "over": 2.05,
      "under": 1.72,
-     "n": 7
+     "n": 10
     }
    ]
   },
@@ -151,24 +108,24 @@
    "commence": "2026-09-12T13:30:00Z",
    "home": "Borussia Dortmund",
    "away": "SC Paderborn",
-   "n_books": 18,
+   "n_books": 22,
    "h2h": {
-    "home": 1.245,
-    "draw": 6.05,
+    "home": 1.235,
+    "draw": 6.445,
     "away": 10.375
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.35,
-     "under": 3.175,
-     "n": 4
+     "under": 3.15,
+     "n": 3
     },
     {
      "point": 3.5,
-     "over": 1.92,
-     "under": 1.85,
-     "n": 7
+     "over": 1.865,
+     "under": 1.885,
+     "n": 10
     }
    ]
   },
@@ -176,24 +133,24 @@
    "commence": "2026-09-12T13:30:00Z",
    "home": "SC Freiburg",
    "away": "Borussia Monchengladbach",
-   "n_books": 19,
+   "n_books": 22,
    "h2h": {
-    "home": 1.79,
-    "draw": 3.8,
-    "away": 4.1
+    "home": 1.745,
+    "draw": 3.94,
+    "away": 4.22
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.635,
-     "under": 2.25,
-     "n": 10
+     "over": 1.62,
+     "under": 2.28,
+     "n": 11
     },
     {
      "point": 3.0,
-     "over": 1.98,
-     "under": 1.85,
-     "n": 1
+     "over": 1.95,
+     "under": 1.875,
+     "n": 2
     }
    ]
   },
@@ -201,24 +158,24 @@
    "commence": "2026-09-12T13:30:00Z",
    "home": "FSV Mainz 05",
    "away": "Eintracht Frankfurt",
-   "n_books": 18,
+   "n_books": 21,
    "h2h": {
-    "home": 2.075,
-    "draw": 3.6,
-    "away": 3.26
+    "home": 2.08,
+    "draw": 3.65,
+    "away": 3.25
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.61,
-     "under": 2.3,
-     "n": 8
+     "over": 1.55,
+     "under": 2.38,
+     "n": 9
     },
     {
      "point": 3.0,
-     "over": 1.86,
-     "under": 1.97,
-     "n": 1
+     "over": 1.855,
+     "under": 1.965,
+     "n": 2
     },
     {
      "point": 3.5,
@@ -232,11 +189,11 @@
    "commence": "2026-09-12T13:30:00Z",
    "home": "TSG Hoffenheim",
    "away": "VfB Stuttgart",
-   "n_books": 18,
+   "n_books": 21,
    "h2h": {
     "home": 2.3,
-    "draw": 3.805,
-    "away": 2.62
+    "draw": 3.85,
+    "away": 2.65
    },
    "totals": [
     {
@@ -253,9 +210,9 @@
     },
     {
      "point": 3.5,
-     "over": 2.09,
-     "under": 1.73,
-     "n": 6
+     "over": 2.055,
+     "under": 1.75,
+     "n": 8
     }
    ]
   },
@@ -263,7 +220,7 @@
    "commence": "2026-09-12T16:30:00Z",
    "home": "1. FC Köln",
    "away": "Werder Bremen",
-   "n_books": 18,
+   "n_books": 21,
    "h2h": {
     "home": 2.08,
     "draw": 3.6,
@@ -272,15 +229,15 @@
    "totals": [
     {
      "point": 2.5,
-     "over": 1.61,
-     "under": 2.28,
-     "n": 9
+     "over": 1.605,
+     "under": 2.3,
+     "n": 10
     },
     {
      "point": 3.0,
-     "over": 1.98,
-     "under": 1.86,
-     "n": 1
+     "over": 1.97,
+     "under": 1.855,
+     "n": 2
     },
     {
      "point": 3.5,
@@ -294,29 +251,29 @@
    "commence": "2026-09-13T13:30:00Z",
    "home": "RB Leipzig",
    "away": "Hamburger SV",
-   "n_books": 18,
+   "n_books": 19,
    "h2h": {
-    "home": 1.385,
-    "draw": 5.0,
-    "away": 7.1
+    "home": 1.4,
+    "draw": 4.9,
+    "away": 6.5
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.44,
-     "under": 2.75,
+     "over": 1.46,
+     "under": 2.68,
      "n": 3
     },
     {
      "point": 3.25,
-     "over": 1.95,
+     "over": 1.96,
      "under": 1.88,
      "n": 1
     },
     {
      "point": 3.5,
-     "over": 1.94,
-     "under": 1.8,
+     "over": 2.13,
+     "under": 1.705,
      "n": 6
     }
    ]
@@ -325,10 +282,10 @@
    "commence": "2026-09-13T15:30:00Z",
    "home": "Elversberg",
    "away": "Bayern Munich",
-   "n_books": 18,
+   "n_books": 19,
    "h2h": {
     "home": 12.0,
-    "draw": 7.225,
+    "draw": 7.07,
     "away": 1.19
    },
    "totals": [
@@ -339,14 +296,14 @@
      "n": 3
     },
     {
-     "point": 4.0,
-     "over": 1.83,
-     "under": 2.0,
+     "point": 4.25,
+     "over": 1.98,
+     "under": 1.85,
      "n": 1
     },
     {
      "point": 4.5,
-     "over": 2.35,
+     "over": 2.34,
      "under": 1.56,
      "n": 6
     }
