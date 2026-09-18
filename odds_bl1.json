@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T18:53:30Z",
+ "generated": "2026-09-18T09:30:44Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -11,27 +11,33 @@
    "n_books": 24,
    "h2h": {
     "home": 1.05,
-    "draw": 14.935,
-    "away": 27.715
+    "draw": 16.995,
+    "away": 35.0
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.11,
-     "under": 6.5,
+     "over": 1.08,
+     "under": 7.5,
      "n": 3
     },
     {
      "point": 4.5,
-     "over": 1.775,
-     "under": 2.005,
-     "n": 10
+     "over": 1.55,
+     "under": 2.3,
+     "n": 1
     },
     {
-     "point": 4.75,
-     "over": 1.91,
-     "under": 1.94,
-     "n": 1
+     "point": 5.0,
+     "over": 1.93,
+     "under": 1.92,
+     "n": 3
+    },
+    {
+     "point": 5.5,
+     "over": 2.23,
+     "under": 1.64,
+     "n": 7
     }
    ]
   },
@@ -41,22 +47,28 @@
    "away": "1. FC Köln",
    "n_books": 24,
    "h2h": {
-    "home": 2.7,
+    "home": 2.71,
     "draw": 3.615,
     "away": 2.445
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.57,
-     "under": 2.35,
-     "n": 11
+     "over": 1.58,
+     "under": 2.32,
+     "n": 9
     },
     {
      "point": 3.0,
      "over": 1.98,
      "under": 1.84,
      "n": 3
+    },
+    {
+     "point": 3.5,
+     "over": 2.28,
+     "under": 1.545,
+     "n": 2
     }
    ]
   },
@@ -68,7 +80,7 @@
    "h2h": {
     "home": 2.305,
     "draw": 3.875,
-    "away": 2.75
+    "away": 2.77
    },
    "totals": [
     {
@@ -85,7 +97,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.055,
+     "over": 2.05,
      "under": 1.74,
      "n": 10
     }
@@ -98,7 +110,7 @@
    "n_books": 24,
    "h2h": {
     "home": 2.9,
-    "draw": 3.725,
+    "draw": 3.675,
     "away": 2.25
    },
    "totals": [
@@ -110,13 +122,13 @@
     },
     {
      "point": 3.0,
-     "over": 1.88,
-     "under": 1.99,
+     "over": 1.9,
+     "under": 1.98,
      "n": 3
     },
     {
      "point": 3.5,
-     "over": 2.355,
+     "over": 2.34,
      "under": 1.57,
      "n": 8
     }
@@ -128,7 +140,7 @@
    "away": "SC Freiburg",
    "n_books": 24,
    "h2h": {
-    "home": 2.35,
+    "home": 2.335,
     "draw": 3.855,
     "away": 2.7
    },
@@ -148,7 +160,7 @@
     {
      "point": 3.5,
      "over": 2.1,
-     "under": 1.705,
+     "under": 1.73,
      "n": 10
     }
    ]
@@ -159,9 +171,9 @@
    "away": "Borussia Dortmund",
    "n_books": 24,
    "h2h": {
-    "home": 2.32,
-    "draw": 3.775,
-    "away": 2.76
+    "home": 2.35,
+    "draw": 3.75,
+    "away": 2.75
    },
    "totals": [
     {
@@ -172,9 +184,9 @@
     },
     {
      "point": 3.5,
-     "over": 1.925,
-     "under": 1.875,
-     "n": 12
+     "over": 1.95,
+     "under": 1.85,
+     "n": 11
     }
    ]
   },
@@ -185,8 +197,8 @@
    "n_books": 24,
    "h2h": {
     "home": 1.97,
-    "draw": 4.1,
-    "away": 3.31
+    "draw": 4.105,
+    "away": 3.335
    },
    "totals": [
     {
@@ -197,7 +209,7 @@
     },
     {
      "point": 3.5,
-     "over": 1.93,
+     "over": 1.92,
      "under": 1.86,
      "n": 12
     }
@@ -209,7 +221,7 @@
    "away": "Elversberg",
    "n_books": 24,
    "h2h": {
-    "home": 2.0,
+    "home": 2.02,
     "draw": 3.645,
     "away": 3.45
    },
@@ -228,8 +240,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.26,
-     "under": 1.58,
+     "over": 2.265,
+     "under": 1.6,
      "n": 8
     }
    ]
@@ -240,15 +252,15 @@
    "away": "TSG Hoffenheim",
    "n_books": 24,
    "h2h": {
-    "home": 4.46,
+    "home": 4.4,
     "draw": 4.365,
     "away": 1.67
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.4,
-     "under": 2.92,
+     "over": 1.41,
+     "under": 2.88,
      "n": 3
     },
     {
@@ -309,8 +321,8 @@
     },
     {
      "point": 4.5,
-     "over": 1.995,
-     "under": 1.825,
+     "over": 1.98,
+     "under": 1.81,
      "n": 4
     }
    ]
@@ -340,7 +352,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.11,
+     "over": 2.1,
      "under": 1.67,
      "n": 3
     }
@@ -477,7 +489,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.3,
+     "over": 2.2,
      "under": 1.6,
      "n": 3
     }
