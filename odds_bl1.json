@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T18:55:55Z",
+ "generated": "2026-09-25T10:04:54Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -62,7 +62,7 @@
    "h2h": {
     "home": 2.9,
     "draw": 3.85,
-    "away": 2.23
+    "away": 2.22
    },
    "totals": [
     {
@@ -85,8 +85,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.12,
-     "under": 1.7,
+     "over": 2.15,
+     "under": 1.68,
      "n": 7
     }
    ]
@@ -97,7 +97,7 @@
    "away": "Elversberg",
    "n_books": 21,
    "h2h": {
-    "home": 2.23,
+    "home": 2.2,
     "draw": 3.7,
     "away": 2.88
    },
@@ -130,7 +130,7 @@
    "h2h": {
     "home": 1.4,
     "draw": 4.9,
-    "away": 6.6
+    "away": 6.5
    },
    "totals": [
     {
@@ -159,7 +159,7 @@
    "away": "VfB Stuttgart",
    "n_books": 21,
    "h2h": {
-    "home": 4.7,
+    "home": 4.6,
     "draw": 4.5,
     "away": 1.58
    },
@@ -172,7 +172,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.0,
+     "over": 2.02,
      "under": 1.78,
      "n": 9
     }
@@ -303,7 +303,7 @@
    "n_books": 14,
    "h2h": {
     "home": 2.275,
-    "draw": 3.63,
+    "draw": 3.64,
     "away": 2.72
    },
    "totals": [
@@ -333,9 +333,9 @@
    "away": "Borussia Dortmund",
    "n_books": 14,
    "h2h": {
-    "home": 4.2,
-    "draw": 4.15,
-    "away": 1.65
+    "home": 4.3,
+    "draw": 4.175,
+    "away": 1.66
    },
    "totals": [
     {
@@ -364,8 +364,8 @@
    "away": "FSV Mainz 05",
    "n_books": 14,
    "h2h": {
-    "home": 2.92,
-    "draw": 3.49,
+    "home": 2.91,
+    "draw": 3.435,
     "away": 2.2
    },
    "totals": [
@@ -390,8 +390,8 @@
    "n_books": 14,
    "h2h": {
     "home": 3.675,
-    "draw": 3.85,
-    "away": 1.83
+    "draw": 3.825,
+    "away": 1.815
    },
    "totals": [
     {
@@ -470,15 +470,15 @@
    "away": "SC Freiburg",
    "n_books": 14,
    "h2h": {
-    "home": 1.635,
-    "draw": 4.2,
+    "home": 1.615,
+    "draw": 4.175,
     "away": 4.4
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.47,
-     "under": 2.67,
+     "under": 2.62,
      "n": 3
     },
     {
@@ -489,8 +489,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.14,
-     "under": 1.73,
+     "over": 2.15,
+     "under": 1.725,
      "n": 2
     }
    ]
