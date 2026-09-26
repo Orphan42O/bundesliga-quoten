@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T09:45:53Z",
+ "generated": "2026-09-26T18:26:49Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -11,8 +11,8 @@
    "n_books": 20,
    "h2h": {
     "home": 1.36,
-    "draw": 5.225,
-    "away": 7.0
+    "draw": 5.25,
+    "away": 7.015
    },
    "totals": [
     {
@@ -23,7 +23,7 @@
     },
     {
      "point": 3.5,
-     "over": 1.94,
+     "over": 1.95,
      "under": 1.83,
      "n": 9
     }
@@ -35,8 +35,8 @@
    "away": "Bayern Munich",
    "n_books": 20,
    "h2h": {
-    "home": 9.5,
-    "draw": 7.375,
+    "home": 9.65,
+    "draw": 7.5,
     "away": 1.22
    },
    "totals": [
@@ -61,7 +61,7 @@
    "n_books": 20,
    "h2h": {
     "home": 2.9,
-    "draw": 3.85,
+    "draw": 3.825,
     "away": 2.235
    },
    "totals": [
@@ -85,7 +85,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.15,
+     "over": 2.12,
      "under": 1.68,
      "n": 7
     }
@@ -97,8 +97,8 @@
    "away": "Elversberg",
    "n_books": 20,
    "h2h": {
-    "home": 2.215,
-    "draw": 3.65,
+    "home": 2.23,
+    "draw": 3.675,
     "away": 2.88
    },
    "totals": [
@@ -159,7 +159,7 @@
    "away": "VfB Stuttgart",
    "n_books": 20,
    "h2h": {
-    "home": 4.6,
+    "home": 4.65,
     "draw": 4.5,
     "away": 1.59
    },
@@ -277,8 +277,8 @@
    "away": "1. FC Köln",
    "n_books": 14,
    "h2h": {
-    "home": 1.91,
-    "draw": 3.875,
+    "home": 1.92,
+    "draw": 3.9,
     "away": 3.3
    },
    "totals": [
@@ -302,7 +302,7 @@
    "away": "Augsburg",
    "n_books": 14,
    "h2h": {
-    "home": 2.275,
+    "home": 2.27,
     "draw": 3.615,
     "away": 2.72
    },
@@ -315,7 +315,7 @@
     },
     {
      "point": 3.25,
-     "over": 1.9,
+     "over": 1.91,
      "under": 1.93,
      "n": 1
     },
@@ -414,9 +414,9 @@
    "away": "SC Paderborn",
    "n_books": 14,
    "h2h": {
-    "home": 1.815,
-    "draw": 3.775,
-    "away": 3.75
+    "home": 1.83,
+    "draw": 3.825,
+    "away": 3.795
    },
    "totals": [
     {
@@ -452,7 +452,7 @@
     },
     {
      "point": 4.5,
-     "over": 1.95,
+     "over": 1.97,
      "under": 1.88,
      "n": 3
     }
@@ -464,7 +464,7 @@
    "away": "SC Freiburg",
    "n_books": 14,
    "h2h": {
-    "home": 1.615,
+    "home": 1.635,
     "draw": 4.175,
     "away": 4.4
    },
@@ -483,8 +483,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.15,
-     "under": 1.725,
+     "over": 2.225,
+     "under": 1.685,
      "n": 2
     }
    ]
