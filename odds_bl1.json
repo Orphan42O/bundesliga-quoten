@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T19:11:14Z",
+ "generated": "2026-09-26T09:45:53Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -11,14 +11,14 @@
    "n_books": 20,
    "h2h": {
     "home": 1.36,
-    "draw": 5.25,
-    "away": 7.015
+    "draw": 5.225,
+    "away": 7.0
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.39,
-     "under": 3.0,
+     "over": 1.37,
+     "under": 3.05,
      "n": 3
     },
     {
@@ -35,8 +35,8 @@
    "away": "Bayern Munich",
    "n_books": 20,
    "h2h": {
-    "home": 9.65,
-    "draw": 7.5,
+    "home": 9.5,
+    "draw": 7.375,
     "away": 1.22
    },
    "totals": [
@@ -62,7 +62,7 @@
    "h2h": {
     "home": 2.9,
     "draw": 3.85,
-    "away": 2.225
+    "away": 2.235
    },
    "totals": [
     {
@@ -97,8 +97,8 @@
    "away": "Elversberg",
    "n_books": 20,
    "h2h": {
-    "home": 2.23,
-    "draw": 3.675,
+    "home": 2.215,
+    "draw": 3.65,
     "away": 2.88
    },
    "totals": [
@@ -185,7 +185,7 @@
    "n_books": 20,
    "h2h": {
     "home": 1.52,
-    "draw": 4.65,
+    "draw": 4.775,
     "away": 5.0
    },
    "totals": [
@@ -266,7 +266,7 @@
     {
      "point": 3.0,
      "over": 2.005,
-     "under": 1.83,
+     "under": 1.825,
      "n": 2
     }
    ]
@@ -321,8 +321,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.135,
-     "under": 1.74,
+     "over": 2.11,
+     "under": 1.755,
      "n": 2
     }
    ]
@@ -364,8 +364,8 @@
    "away": "FSV Mainz 05",
    "n_books": 14,
    "h2h": {
-    "home": 2.91,
-    "draw": 3.435,
+    "home": 2.935,
+    "draw": 3.49,
     "away": 2.2
    },
    "totals": [
