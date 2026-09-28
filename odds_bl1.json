@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T18:56:36Z",
+ "generated": "2026-09-28T11:34:19Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -61,8 +61,8 @@
    "n_books": 21,
    "h2h": {
     "home": 2.9,
-    "draw": 3.85,
-    "away": 2.23
+    "draw": 3.75,
+    "away": 2.24
    },
    "totals": [
     {
@@ -85,7 +85,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.12,
+     "over": 2.14,
      "under": 1.7,
      "n": 7
     }
@@ -110,8 +110,8 @@
     },
     {
      "point": 3.0,
-     "over": 1.94,
-     "under": 1.885,
+     "over": 1.95,
+     "under": 1.875,
      "n": 2
     },
     {
@@ -161,7 +161,7 @@
    "h2h": {
     "home": 4.6,
     "draw": 4.4,
-    "away": 1.58
+    "away": 1.59
    },
    "totals": [
     {
@@ -185,7 +185,7 @@
    "n_books": 21,
    "h2h": {
     "home": 1.52,
-    "draw": 4.7,
+    "draw": 4.8,
     "away": 5.0
    },
    "totals": [
@@ -279,7 +279,7 @@
    "h2h": {
     "home": 1.92,
     "draw": 3.9,
-    "away": 3.325
+    "away": 3.3
    },
    "totals": [
     {
@@ -302,9 +302,9 @@
    "away": "Augsburg",
    "n_books": 14,
    "h2h": {
-    "home": 2.25,
-    "draw": 3.72,
-    "away": 2.765
+    "home": 2.38,
+    "draw": 3.6,
+    "away": 2.62
    },
    "totals": [
     {
@@ -321,8 +321,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.085,
-     "under": 1.78,
+     "over": 2.12,
+     "under": 1.745,
      "n": 2
     }
    ]
@@ -389,9 +389,9 @@
    "away": "VfB Stuttgart",
    "n_books": 14,
    "h2h": {
-    "home": 3.675,
+    "home": 3.55,
     "draw": 3.85,
-    "away": 1.83
+    "away": 1.85
    },
    "totals": [
     {
@@ -402,8 +402,8 @@
     },
     {
      "point": 3.5,
-     "over": 1.94,
-     "under": 1.89,
+     "over": 1.95,
+     "under": 1.88,
      "n": 3
     }
    ]
@@ -440,7 +440,7 @@
    "n_books": 13,
    "h2h": {
     "home": 1.25,
-    "draw": 6.7,
+    "draw": 6.25,
     "away": 9.0
    },
    "totals": [
@@ -451,16 +451,10 @@
      "n": 3
     },
     {
-     "point": 4.25,
-     "over": 1.79,
-     "under": 1.95,
-     "n": 1
-    },
-    {
      "point": 4.5,
-     "over": 2.01,
-     "under": 1.825,
-     "n": 2
+     "over": 1.96,
+     "under": 1.79,
+     "n": 3
     }
    ]
   },
