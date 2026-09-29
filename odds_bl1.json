@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T21:09:06Z",
+ "generated": "2026-09-29T11:13:03Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -98,15 +98,15 @@
    "n_books": 21,
    "h2h": {
     "home": 2.23,
-    "draw": 3.75,
+    "draw": 3.7,
     "away": 2.88
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.56,
-     "under": 2.39,
-     "n": 8
+     "under": 2.4,
+     "n": 9
     },
     {
      "point": 3.0,
@@ -116,9 +116,9 @@
     },
     {
      "point": 3.5,
-     "over": 2.29,
-     "under": 1.545,
-     "n": 2
+     "over": 2.28,
+     "under": 1.54,
+     "n": 1
     }
    ]
   },
@@ -215,7 +215,7 @@
    "away": "Borussia Monchengladbach",
    "n_books": 21,
    "h2h": {
-    "home": 1.92,
+    "home": 1.93,
     "draw": 3.9,
     "away": 3.37
    },
@@ -254,13 +254,13 @@
    "h2h": {
     "home": 1.62,
     "draw": 4.0,
-    "away": 5.0
+    "away": 4.9
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.57,
-     "under": 2.355,
+     "under": 2.325,
      "n": 10
     },
     {
@@ -277,8 +277,8 @@
    "away": "1. FC Köln",
    "n_books": 14,
    "h2h": {
-    "home": 1.92,
-    "draw": 3.9,
+    "home": 1.91,
+    "draw": 3.875,
     "away": 3.3
    },
    "totals": [
@@ -303,7 +303,7 @@
    "n_books": 14,
    "h2h": {
     "home": 2.39,
-    "draw": 3.6,
+    "draw": 3.635,
     "away": 2.62
    },
    "totals": [
@@ -352,8 +352,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.14,
-     "under": 1.73,
+     "over": 2.135,
+     "under": 1.735,
      "n": 2
     }
    ]
@@ -391,7 +391,7 @@
    "h2h": {
     "home": 3.55,
     "draw": 3.85,
-    "away": 1.85
+    "away": 1.845
    },
    "totals": [
     {
@@ -440,8 +440,8 @@
    "n_books": 13,
    "h2h": {
     "home": 1.25,
-    "draw": 6.25,
-    "away": 9.0
+    "draw": 6.1,
+    "away": 8.5
    },
    "totals": [
     {
@@ -464,9 +464,9 @@
    "away": "SC Freiburg",
    "n_books": 14,
    "h2h": {
-    "home": 1.62,
+    "home": 1.635,
     "draw": 4.2,
-    "away": 4.43
+    "away": 4.4
    },
    "totals": [
     {
@@ -495,7 +495,7 @@
    "away": "TSG Hoffenheim",
    "n_books": 14,
    "h2h": {
-    "home": 3.54,
+    "home": 3.5,
     "draw": 4.0,
     "away": 1.83
    },
