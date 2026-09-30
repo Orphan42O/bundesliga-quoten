@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T11:01:23Z",
+ "generated": "2026-09-30T19:53:58Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -92,7 +92,7 @@
    "n_books": 20,
    "h2h": {
     "home": 2.23,
-    "draw": 3.775,
+    "draw": 3.75,
     "away": 2.88
    },
    "totals": [
@@ -122,9 +122,9 @@
    "away": "Hamburger SV",
    "n_books": 20,
    "h2h": {
-    "home": 1.41,
-    "draw": 4.94,
-    "away": 6.425
+    "home": 1.415,
+    "draw": 4.915,
+    "away": 6.435
    },
    "totals": [
     {
@@ -209,7 +209,7 @@
    "away": "Borussia Monchengladbach",
    "n_books": 20,
    "h2h": {
-    "home": 1.935,
+    "home": 1.94,
     "draw": 3.925,
     "away": 3.385
    },
@@ -296,9 +296,9 @@
    "away": "Augsburg",
    "n_books": 13,
    "h2h": {
-    "home": 2.4,
+    "home": 2.45,
     "draw": 3.6,
-    "away": 2.62
+    "away": 2.6
    },
    "totals": [
     {
@@ -408,15 +408,15 @@
    "away": "SC Paderborn",
    "n_books": 13,
    "h2h": {
-    "home": 1.79,
-    "draw": 3.8,
+    "home": 1.78,
+    "draw": 3.85,
     "away": 4.02
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.55,
-     "under": 2.4,
+     "under": 2.42,
      "n": 3
     },
     {
@@ -440,7 +440,7 @@
    "n_books": 12,
    "h2h": {
     "home": 1.25,
-    "draw": 6.225,
+    "draw": 6.35,
     "away": 9.0
    },
    "totals": [
@@ -495,9 +495,9 @@
    "away": "TSG Hoffenheim",
    "n_books": 13,
    "h2h": {
-    "home": 3.55,
+    "home": 3.5,
     "draw": 4.0,
-    "away": 1.83
+    "away": 1.87
    },
    "totals": [
     {
@@ -508,8 +508,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.0,
-     "under": 1.85,
+     "over": 2.01,
+     "under": 1.83,
      "n": 3
     }
    ]
