@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T20:28:34Z",
+ "generated": "2026-10-20T09:54:02Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -11,7 +11,7 @@
    "n_books": 23,
    "h2h": {
     "home": 1.37,
-    "draw": 5.6,
+    "draw": 5.65,
     "away": 6.72
    },
    "totals": [
@@ -23,8 +23,8 @@
     },
     {
      "point": 3.5,
-     "over": 1.685,
-     "under": 2.14,
+     "over": 1.715,
+     "under": 2.12,
      "n": 12
     },
     {
@@ -91,8 +91,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.225,
-     "under": 1.635,
+     "over": 2.23,
+     "under": 1.64,
      "n": 10
     }
    ]
@@ -104,7 +104,7 @@
    "n_books": 23,
    "h2h": {
     "home": 1.38,
-    "draw": 5.4,
+    "draw": 5.3,
     "away": 6.76
    },
    "totals": [
@@ -117,7 +117,7 @@
     {
      "point": 3.5,
      "over": 1.69,
-     "under": 2.13,
+     "under": 2.14,
      "n": 12
     },
     {
@@ -172,8 +172,8 @@
    "totals": [
     {
      "point": 2.5,
-     "over": 1.565,
-     "under": 2.37,
+     "over": 1.56,
+     "under": 2.39,
      "n": 12
     },
     {
@@ -197,7 +197,7 @@
    "n_books": 23,
    "h2h": {
     "home": 1.45,
-    "draw": 5.1,
+    "draw": 5.13,
     "away": 5.85
    },
    "totals": [
@@ -209,7 +209,7 @@
     },
     {
      "point": 3.5,
-     "over": 1.87,
+     "over": 1.88,
      "under": 1.94,
      "n": 13
     }
@@ -247,8 +247,8 @@
    "n_books": 23,
    "h2h": {
     "home": 6.43,
-    "draw": 5.78,
-    "away": 1.37
+    "draw": 5.75,
+    "away": 1.38
    },
    "totals": [
     {
@@ -277,9 +277,9 @@
    "away": "FSV Mainz 05",
    "n_books": 12,
    "h2h": {
-    "home": 3.125,
-    "draw": 3.625,
-    "away": 2.035
+    "home": 3.175,
+    "draw": 3.7,
+    "away": 2.025
    },
    "totals": [
     {
@@ -290,14 +290,14 @@
     },
     {
      "point": 3.0,
-     "over": 1.83,
-     "under": 2.02,
+     "over": 1.82,
+     "under": 2.03,
      "n": 1
     },
     {
      "point": 3.5,
      "over": 2.29,
-     "under": 1.64,
+     "under": 1.65,
      "n": 3
     }
    ]
@@ -364,27 +364,27 @@
    "away": "SC Paderborn",
    "n_books": 12,
    "h2h": {
-    "home": 1.82,
-    "draw": 3.975,
-    "away": 3.67
+    "home": 1.825,
+    "draw": 3.95,
+    "away": 3.65
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.47,
-     "under": 2.65,
+     "over": 1.44,
+     "under": 2.75,
      "n": 3
     },
     {
      "point": 3.25,
-     "over": 2.0,
-     "under": 1.84,
+     "over": 1.87,
+     "under": 1.97,
      "n": 1
     },
     {
      "point": 3.5,
-     "over": 2.21,
-     "under": 1.68,
+     "over": 2.09,
+     "under": 1.76,
      "n": 3
     }
    ]
@@ -408,8 +408,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.055,
-     "under": 1.79,
+     "over": 2.06,
+     "under": 1.785,
      "n": 4
     }
    ]
@@ -452,7 +452,7 @@
    "n_books": 12,
    "h2h": {
     "home": 1.305,
-    "draw": 5.575,
+    "draw": 5.6,
     "away": 7.0
    },
    "totals": [
@@ -464,8 +464,8 @@
     },
     {
      "point": 4.0,
-     "over": 1.82,
-     "under": 2.03,
+     "over": 1.81,
+     "under": 2.04,
      "n": 1
     },
     {
@@ -507,9 +507,9 @@
    "away": "Hamburger SV",
    "n_books": 12,
    "h2h": {
-    "home": 1.605,
+    "home": 1.6,
     "draw": 4.3,
-    "away": 4.45
+    "away": 4.545
    },
    "totals": [
     {
