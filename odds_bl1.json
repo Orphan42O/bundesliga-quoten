@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T21:10:12Z",
+ "generated": "2026-11-05T12:59:21Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -10,15 +10,15 @@
    "away": "Borussia Monchengladbach",
    "n_books": 23,
    "h2h": {
-    "home": 2.38,
-    "draw": 3.65,
+    "home": 2.4,
+    "draw": 3.6,
     "away": 2.75
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.61,
-     "under": 2.28,
+     "under": 2.27,
      "n": 12
     },
     {
@@ -36,7 +36,7 @@
    "n_books": 23,
    "h2h": {
     "home": 1.45,
-    "draw": 5.25,
+    "draw": 5.2,
     "away": 5.6
    },
    "totals": [
@@ -48,7 +48,7 @@
     },
     {
      "point": 3.5,
-     "over": 1.64,
+     "over": 1.62,
      "under": 2.21,
      "n": 9
     },
@@ -60,8 +60,8 @@
     },
     {
      "point": 4.0,
-     "over": 2.045,
-     "under": 1.76,
+     "over": 2.035,
+     "under": 1.77,
      "n": 2
     }
    ]
@@ -72,16 +72,22 @@
    "away": "Bayern Munich",
    "n_books": 23,
    "h2h": {
-    "home": 6.74,
-    "draw": 6.0,
-    "away": 1.33
+    "home": 7.0,
+    "draw": 6.3,
+    "away": 1.31
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.22,
-     "under": 4.3,
+     "under": 4.35,
      "n": 3
+    },
+    {
+     "point": 3.5,
+     "over": 1.525,
+     "under": 2.465,
+     "n": 4
     },
     {
      "point": 4.0,
@@ -91,9 +97,9 @@
     },
     {
      "point": 4.5,
-     "over": 2.28,
-     "under": 1.6,
-     "n": 9
+     "over": 2.25,
+     "under": 1.61,
+     "n": 5
     }
    ]
   },
@@ -103,21 +109,21 @@
    "away": "Elversberg",
    "n_books": 23,
    "h2h": {
-    "home": 1.28,
+    "home": 1.29,
     "draw": 6.1,
     "away": 8.54
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.32,
-     "under": 3.37,
+     "over": 1.35,
+     "under": 3.2,
      "n": 3
     },
     {
      "point": 3.5,
-     "over": 1.82,
-     "under": 1.97,
+     "over": 1.86,
+     "under": 1.93,
      "n": 13
     }
    ]
@@ -129,14 +135,14 @@
    "n_books": 23,
    "h2h": {
     "home": 2.98,
-    "draw": 3.8,
+    "draw": 3.75,
     "away": 2.17
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.44,
-     "under": 2.79,
+     "over": 1.46,
+     "under": 2.71,
      "n": 3
     },
     {
@@ -159,9 +165,9 @@
    "away": "Werder Bremen",
    "n_books": 23,
    "h2h": {
-    "home": 1.57,
-    "draw": 4.7,
-    "away": 4.72
+    "home": 1.58,
+    "draw": 4.65,
+    "away": 4.7
    },
    "totals": [
     {
@@ -172,8 +178,8 @@
     },
     {
      "point": 3.5,
-     "over": 1.8,
-     "under": 1.98,
+     "over": 1.82,
+     "under": 1.97,
      "n": 13
     }
    ]
@@ -185,7 +191,7 @@
    "n_books": 23,
    "h2h": {
     "home": 4.0,
-    "draw": 4.1,
+    "draw": 4.15,
     "away": 1.75
    },
    "totals": [
@@ -203,8 +209,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.03,
-     "under": 1.785,
+     "over": 2.025,
+     "under": 1.78,
      "n": 12
     }
    ]
@@ -217,13 +223,13 @@
    "h2h": {
     "home": 1.5,
     "draw": 4.5,
-    "away": 6.0
+    "away": 6.1
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.57,
-     "under": 2.35,
+     "under": 2.34,
      "n": 12
     },
     {
@@ -266,13 +272,13 @@
     {
      "point": 3.25,
      "over": 2.04,
-     "under": 1.86,
+     "under": 1.85,
      "n": 1
     },
     {
      "point": 3.5,
      "over": 2.165,
-     "under": 1.68,
+     "under": 1.675,
      "n": 10
     }
    ]
@@ -284,14 +290,14 @@
    "n_books": 12,
    "h2h": {
     "home": 1.06,
-    "draw": 12.25,
+    "draw": 13.0,
     "away": 24.0
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.18,
-     "under": 4.85,
+     "over": 1.17,
+     "under": 5.0,
      "n": 3
     },
     {
@@ -314,15 +320,15 @@
    "away": "SC Paderborn",
    "n_books": 12,
    "h2h": {
-    "home": 1.215,
-    "draw": 6.375,
+    "home": 1.225,
+    "draw": 6.3,
     "away": 9.0
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.3,
-     "under": 3.5,
+     "over": 1.31,
+     "under": 3.42,
      "n": 3
     },
     {
@@ -346,8 +352,8 @@
    "n_books": 12,
    "h2h": {
     "home": 4.6,
-    "draw": 4.285,
-    "away": 1.595
+    "draw": 4.275,
+    "away": 1.6
    },
    "totals": [
     {
@@ -377,19 +383,19 @@
    "n_books": 12,
    "h2h": {
     "home": 2.3,
-    "draw": 3.75,
-    "away": 2.615
+    "draw": 3.8,
+    "away": 2.575
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.36,
-     "under": 3.05,
+     "under": 3.1,
      "n": 3
     },
     {
      "point": 3.5,
-     "over": 1.915,
+     "over": 1.925,
      "under": 1.915,
      "n": 4
     }
@@ -433,8 +439,8 @@
    "n_books": 12,
    "h2h": {
     "home": 4.125,
-    "draw": 4.1,
-    "away": 1.66
+    "draw": 4.075,
+    "away": 1.7
    },
    "totals": [
     {
@@ -489,7 +495,7 @@
    "n_books": 9,
    "h2h": {
     "home": 2.68,
-    "draw": 3.7,
+    "draw": 3.65,
     "away": 2.38
    },
    "totals": [
@@ -520,8 +526,8 @@
    "n_books": 9,
    "h2h": {
     "home": 1.65,
-    "draw": 4.15,
-    "away": 4.4
+    "draw": 4.2,
+    "away": 4.47
    },
    "totals": [
     {
