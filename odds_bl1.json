@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T13:20:38Z",
+ "generated": "2026-11-10T21:14:36Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -36,7 +36,7 @@
     {
      "point": 4.5,
      "over": 2.07,
-     "under": 1.715,
+     "under": 1.735,
      "n": 8
     }
    ]
@@ -48,7 +48,7 @@
    "n_books": 20,
    "h2h": {
     "home": 1.25,
-    "draw": 6.425,
+    "draw": 6.475,
     "away": 8.875
    },
    "totals": [
@@ -129,7 +129,7 @@
     {
      "point": 3.5,
      "over": 1.885,
-     "under": 1.89,
+     "under": 1.895,
      "n": 10
     }
    ]
@@ -284,7 +284,7 @@
     {
      "point": 3.5,
      "over": 2.325,
-     "under": 1.585,
+     "under": 1.6,
      "n": 8
     }
    ]
@@ -345,7 +345,7 @@
    "away": "Bayern Munich",
    "n_books": 8,
    "h2h": {
-    "home": 12.5,
+    "home": 12.0,
     "draw": 8.675,
     "away": 1.11
    },
@@ -370,20 +370,20 @@
    "away": "FC Schalke 04",
    "n_books": 8,
    "h2h": {
-    "home": 2.25,
-    "draw": 3.3,
-    "away": 2.875
+    "home": 2.29,
+    "draw": 3.25,
+    "away": 2.83
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.81,
-     "under": 2.02,
+     "over": 1.84,
+     "under": 2.0,
      "n": 3
     },
     {
      "point": 2.75,
-     "over": 2.05,
+     "over": 2.06,
      "under": 1.8,
      "n": 1
     }
@@ -420,21 +420,21 @@
    "away": "Eintracht Frankfurt",
    "n_books": 8,
    "h2h": {
-    "home": 1.635,
+    "home": 1.625,
     "draw": 4.425,
-    "away": 3.9
+    "away": 3.905
    },
    "totals": [
     {
      "point": 3.5,
      "over": 1.79,
-     "under": 2.05,
+     "under": 2.1,
      "n": 3
     },
     {
      "point": 3.75,
-     "over": 1.97,
-     "under": 1.87,
+     "over": 1.88,
+     "under": 1.96,
      "n": 1
     }
    ]
