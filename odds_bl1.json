@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T21:14:36Z",
+ "generated": "2026-11-11T12:31:42Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -35,8 +35,8 @@
     },
     {
      "point": 4.5,
-     "over": 2.07,
-     "under": 1.735,
+     "over": 2.08,
+     "under": 1.715,
      "n": 8
     }
    ]
@@ -49,7 +49,7 @@
    "h2h": {
     "home": 1.25,
     "draw": 6.475,
-    "away": 8.875
+    "away": 8.87
    },
    "totals": [
     {
@@ -115,7 +115,7 @@
    "away": "TSG Hoffenheim",
    "n_books": 20,
    "h2h": {
-    "home": 2.315,
+    "home": 2.34,
     "draw": 3.8,
     "away": 2.65
    },
@@ -202,7 +202,7 @@
    "away": "VfB Stuttgart",
    "n_books": 20,
    "h2h": {
-    "home": 3.8,
+    "home": 3.825,
     "draw": 3.975,
     "away": 1.78
    },
@@ -234,7 +234,7 @@
    "n_books": 20,
    "h2h": {
     "home": 2.68,
-    "draw": 3.8,
+    "draw": 3.775,
     "away": 2.33
    },
    "totals": [
@@ -320,9 +320,9 @@
    "away": "Elversberg",
    "n_books": 8,
    "h2h": {
-    "home": 1.88,
+    "home": 1.85,
     "draw": 3.785,
-    "away": 3.255
+    "away": 3.45
    },
    "totals": [
     {
@@ -333,8 +333,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.25,
-     "under": 1.66,
+     "over": 2.27,
+     "under": 1.65,
      "n": 3
     }
    ]
@@ -345,7 +345,7 @@
    "away": "Bayern Munich",
    "n_books": 8,
    "h2h": {
-    "home": 12.0,
+    "home": 12.5,
     "draw": 8.675,
     "away": 1.11
    },
@@ -420,15 +420,15 @@
    "away": "Eintracht Frankfurt",
    "n_books": 8,
    "h2h": {
-    "home": 1.625,
-    "draw": 4.425,
-    "away": 3.905
+    "home": 1.615,
+    "draw": 4.475,
+    "away": 3.94
    },
    "totals": [
     {
      "point": 3.5,
-     "over": 1.79,
-     "under": 2.1,
+     "over": 1.73,
+     "under": 2.15,
      "n": 3
     },
     {
@@ -445,9 +445,9 @@
    "away": "RB Leipzig",
    "n_books": 8,
    "h2h": {
-    "home": 2.43,
+    "home": 2.455,
     "draw": 3.87,
-    "away": 2.325
+    "away": 2.3
    },
    "totals": [
     {
@@ -502,7 +502,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.1,
+     "over": 2.09,
      "under": 1.76,
      "n": 3
     }
