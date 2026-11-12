@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T13:37:08Z",
+ "generated": "2026-11-12T21:46:56Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -10,9 +10,9 @@
    "away": "1. FC Köln",
    "n_books": 20,
    "h2h": {
-    "home": 1.085,
-    "draw": 11.0,
-    "away": 20.0
+    "home": 1.08,
+    "draw": 11.25,
+    "away": 19.45
    },
    "totals": [
     {
@@ -36,7 +36,7 @@
     {
      "point": 4.5,
      "over": 2.07,
-     "under": 1.715,
+     "under": 1.735,
      "n": 8
     }
    ]
@@ -103,7 +103,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.21,
+     "over": 2.185,
      "under": 1.64,
      "n": 8
     }
@@ -153,8 +153,8 @@
     },
     {
      "point": 3.0,
-     "over": 1.87,
-     "under": 1.955,
+     "over": 1.895,
+     "under": 1.925,
      "n": 2
     },
     {
@@ -234,7 +234,7 @@
    "n_books": 20,
    "h2h": {
     "home": 2.68,
-    "draw": 3.775,
+    "draw": 3.8,
     "away": 2.33
    },
    "totals": [
@@ -265,7 +265,7 @@
    "n_books": 20,
    "h2h": {
     "home": 1.65,
-    "draw": 4.175,
+    "draw": 4.2,
     "away": 4.5
    },
    "totals": [
@@ -295,9 +295,9 @@
    "away": "Borussia Monchengladbach",
    "n_books": 8,
    "h2h": {
-    "home": 1.69,
+    "home": 1.695,
     "draw": 4.05,
-    "away": 3.875
+    "away": 3.89
    },
    "totals": [
     {
@@ -333,7 +333,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.3,
+     "over": 2.27,
      "under": 1.65,
      "n": 3
     }
@@ -446,7 +446,7 @@
    "n_books": 8,
    "h2h": {
     "home": 2.465,
-    "draw": 3.725,
+    "draw": 3.775,
     "away": 2.35
    },
    "totals": [
