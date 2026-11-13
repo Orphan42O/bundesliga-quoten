@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T21:46:56Z",
+ "generated": "2026-11-13T12:55:48Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -12,13 +12,13 @@
    "h2h": {
     "home": 1.08,
     "draw": 11.25,
-    "away": 19.45
+    "away": 19.95
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.17,
-     "under": 4.9,
+     "under": 5.0,
      "n": 3
     },
     {
@@ -36,7 +36,7 @@
     {
      "point": 4.5,
      "over": 2.07,
-     "under": 1.735,
+     "under": 1.74,
      "n": 8
     }
    ]
@@ -117,7 +117,7 @@
    "h2h": {
     "home": 2.34,
     "draw": 3.8,
-    "away": 2.65
+    "away": 2.635
    },
    "totals": [
     {
@@ -140,7 +140,7 @@
    "away": "SC Freiburg",
    "n_books": 20,
    "h2h": {
-    "home": 3.3,
+    "home": 3.4,
     "draw": 3.7,
     "away": 2.005
    },
@@ -153,8 +153,8 @@
     },
     {
      "point": 3.0,
-     "over": 1.895,
-     "under": 1.925,
+     "over": 1.89,
+     "under": 1.93,
      "n": 2
     },
     {
@@ -202,7 +202,7 @@
    "away": "VfB Stuttgart",
    "n_books": 20,
    "h2h": {
-    "home": 3.85,
+    "home": 3.825,
     "draw": 4.0,
     "away": 1.78
    },
@@ -235,7 +235,7 @@
    "h2h": {
     "home": 2.68,
     "draw": 3.8,
-    "away": 2.33
+    "away": 2.32
    },
    "totals": [
     {
@@ -252,7 +252,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.14,
+     "over": 2.12,
      "under": 1.7,
      "n": 9
     }
@@ -370,8 +370,8 @@
    "away": "FC Schalke 04",
    "n_books": 8,
    "h2h": {
-    "home": 2.29,
-    "draw": 3.275,
+    "home": 2.275,
+    "draw": 3.32,
     "away": 2.805
    },
    "totals": [
@@ -470,7 +470,7 @@
    "away": "Augsburg",
    "n_books": 8,
    "h2h": {
-    "home": 1.605,
+    "home": 1.615,
     "draw": 4.45,
     "away": 4.015
    },
@@ -502,7 +502,7 @@
     },
     {
      "point": 3.5,
-     "over": 2.18,
+     "over": 2.2,
      "under": 1.7,
      "n": 3
     }
