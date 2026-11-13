@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T12:55:48Z",
+ "generated": "2026-11-13T21:19:29Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -12,7 +12,7 @@
    "h2h": {
     "home": 1.08,
     "draw": 11.25,
-    "away": 19.95
+    "away": 19.96
    },
    "totals": [
     {
@@ -49,7 +49,7 @@
    "h2h": {
     "home": 1.25,
     "draw": 6.475,
-    "away": 8.87
+    "away": 9.0
    },
    "totals": [
     {
@@ -103,8 +103,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.185,
-     "under": 1.64,
+     "over": 2.175,
+     "under": 1.66,
      "n": 8
     }
    ]
@@ -115,15 +115,15 @@
    "away": "TSG Hoffenheim",
    "n_books": 20,
    "h2h": {
-    "home": 2.34,
+    "home": 2.29,
     "draw": 3.8,
-    "away": 2.635
+    "away": 2.7
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.36,
-     "under": 3.05,
+     "under": 3.1,
      "n": 3
     },
     {
@@ -295,8 +295,8 @@
    "away": "Borussia Monchengladbach",
    "n_books": 8,
    "h2h": {
-    "home": 1.695,
-    "draw": 4.05,
+    "home": 1.71,
+    "draw": 4.025,
     "away": 3.89
    },
    "totals": [
@@ -320,7 +320,7 @@
    "away": "Elversberg",
    "n_books": 8,
    "h2h": {
-    "home": 1.89,
+    "home": 1.9,
     "draw": 3.77,
     "away": 3.35
    },
@@ -345,7 +345,7 @@
    "away": "Bayern Munich",
    "n_books": 8,
    "h2h": {
-    "home": 12.0,
+    "home": 12.84,
     "draw": 8.675,
     "away": 1.11
    },
@@ -370,9 +370,9 @@
    "away": "FC Schalke 04",
    "n_books": 8,
    "h2h": {
-    "home": 2.275,
+    "home": 2.285,
     "draw": 3.32,
-    "away": 2.805
+    "away": 2.82
    },
    "totals": [
     {
@@ -397,7 +397,7 @@
    "h2h": {
     "home": 1.45,
     "draw": 4.475,
-    "away": 5.49
+    "away": 5.565
    },
    "totals": [
     {
@@ -420,9 +420,9 @@
    "away": "Eintracht Frankfurt",
    "n_books": 8,
    "h2h": {
-    "home": 1.615,
+    "home": 1.62,
     "draw": 4.475,
-    "away": 3.94
+    "away": 3.955
    },
    "totals": [
     {
@@ -489,8 +489,8 @@
    "away": "Bayer Leverkusen",
    "n_books": 8,
    "h2h": {
-    "home": 2.015,
-    "draw": 3.865,
+    "home": 2.04,
+    "draw": 3.825,
     "away": 2.95
    },
    "totals": [
