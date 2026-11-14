@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T21:19:29Z",
+ "generated": "2026-11-14T11:59:02Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -8,17 +8,17 @@
    "commence": "2026-11-20T19:30:00Z",
    "home": "Bayern Munich",
    "away": "1. FC Köln",
-   "n_books": 20,
+   "n_books": 23,
    "h2h": {
     "home": 1.08,
-    "draw": 11.25,
-    "away": 19.96
+    "draw": 11.5,
+    "away": 20.0
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.17,
-     "under": 5.0,
+     "under": 4.9,
      "n": 3
     },
     {
@@ -35,9 +35,9 @@
     },
     {
      "point": 4.5,
-     "over": 2.07,
-     "under": 1.74,
-     "n": 8
+     "over": 2.08,
+     "under": 1.72,
+     "n": 11
     }
    ]
   },
@@ -79,8 +79,8 @@
    "n_books": 20,
    "h2h": {
     "home": 4.725,
-    "draw": 4.35,
-    "away": 1.605
+    "draw": 4.325,
+    "away": 1.615
    },
    "totals": [
     {
@@ -200,9 +200,9 @@
    "commence": "2026-11-21T17:30:00Z",
    "home": "FC Schalke 04",
    "away": "VfB Stuttgart",
-   "n_books": 20,
+   "n_books": 19,
    "h2h": {
-    "home": 3.825,
+    "home": 3.85,
     "draw": 4.0,
     "away": 1.78
    },
@@ -221,9 +221,9 @@
     },
     {
      "point": 3.5,
-     "over": 2.15,
-     "under": 1.68,
-     "n": 9
+     "over": 2.16,
+     "under": 1.675,
+     "n": 8
     }
    ]
   },
@@ -293,11 +293,11 @@
    "commence": "2026-11-27T19:30:00Z",
    "home": "Werder Bremen",
    "away": "Borussia Monchengladbach",
-   "n_books": 8,
+   "n_books": 9,
    "h2h": {
-    "home": 1.71,
-    "draw": 4.025,
-    "away": 3.89
+    "home": 1.67,
+    "draw": 3.85,
+    "away": 3.73
    },
    "totals": [
     {
@@ -321,7 +321,7 @@
    "n_books": 8,
    "h2h": {
     "home": 1.9,
-    "draw": 3.77,
+    "draw": 3.745,
     "away": 3.35
    },
    "totals": [
@@ -395,7 +395,7 @@
    "away": "Union Berlin",
    "n_books": 8,
    "h2h": {
-    "home": 1.45,
+    "home": 1.445,
     "draw": 4.475,
     "away": 5.565
    },
@@ -446,7 +446,7 @@
    "n_books": 8,
    "h2h": {
     "home": 2.465,
-    "draw": 3.775,
+    "draw": 3.725,
     "away": 2.35
    },
    "totals": [
@@ -490,8 +490,8 @@
    "n_books": 8,
    "h2h": {
     "home": 2.04,
-    "draw": 3.825,
-    "away": 2.95
+    "draw": 3.8,
+    "away": 2.935
    },
    "totals": [
     {
