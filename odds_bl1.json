@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T22:37:00Z",
+ "generated": "2026-11-20T13:54:08Z",
  "sport": "soccer_germany_bundesliga",
  "source": "the-odds-api.com - Konsens (Median) mehrerer Buchmacher",
  "n_matches": 18,
@@ -10,21 +10,21 @@
    "away": "1. FC Köln",
    "n_books": 23,
    "h2h": {
-    "home": 1.07,
-    "draw": 13.5,
-    "away": 23.0
+    "home": 1.08,
+    "draw": 12.01,
+    "away": 20.0
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.13,
-     "under": 6.0,
+     "under": 5.8,
      "n": 3
     },
     {
      "point": 4.5,
-     "over": 1.88,
-     "under": 1.91,
+     "over": 1.93,
+     "under": 1.9,
      "n": 13
     }
    ]
@@ -35,8 +35,8 @@
    "away": "SC Paderborn",
    "n_books": 23,
    "h2h": {
-    "home": 1.26,
-    "draw": 6.29,
+    "home": 1.27,
+    "draw": 6.3,
     "away": 9.0
    },
    "totals": [
@@ -49,7 +49,7 @@
     {
      "point": 3.5,
      "over": 1.84,
-     "under": 1.95,
+     "under": 1.94,
      "n": 13
     }
    ]
@@ -62,25 +62,25 @@
    "h2h": {
     "home": 5.2,
     "draw": 4.5,
-    "away": 1.56
+    "away": 1.57
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.46,
-     "under": 2.68,
+     "over": 1.48,
+     "under": 2.62,
      "n": 3
     },
     {
      "point": 3.0,
-     "over": 1.705,
-     "under": 2.125,
+     "over": 1.71,
+     "under": 2.14,
      "n": 2
     },
     {
      "point": 3.25,
-     "over": 1.99,
-     "under": 1.9,
+     "over": 2.01,
+     "under": 1.88,
      "n": 1
     },
     {
@@ -97,21 +97,21 @@
    "away": "TSG Hoffenheim",
    "n_books": 23,
    "h2h": {
-    "home": 2.33,
-    "draw": 3.85,
-    "away": 2.7
+    "home": 2.35,
+    "draw": 3.98,
+    "away": 2.65
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.35,
-     "under": 3.2,
+     "over": 1.33,
+     "under": 3.25,
      "n": 3
     },
     {
      "point": 3.5,
-     "over": 1.89,
-     "under": 1.9,
+     "over": 1.88,
+     "under": 1.94,
      "n": 13
     }
    ]
@@ -122,27 +122,27 @@
    "away": "SC Freiburg",
    "n_books": 23,
    "h2h": {
-    "home": 3.4,
+    "home": 3.5,
     "draw": 3.75,
-    "away": 2.01
+    "away": 1.98
    },
    "totals": [
     {
      "point": 2.5,
      "over": 1.545,
-     "under": 2.425,
+     "under": 2.41,
      "n": 8
     },
     {
      "point": 3.0,
-     "over": 1.88,
-     "under": 1.93,
+     "over": 1.93,
+     "under": 1.96,
      "n": 3
     },
     {
      "point": 3.5,
-     "over": 2.335,
-     "under": 1.61,
+     "over": 2.355,
+     "under": 1.6,
      "n": 4
     }
    ]
@@ -153,9 +153,9 @@
    "away": "RB Leipzig",
    "n_books": 23,
    "h2h": {
-    "home": 5.5,
-    "draw": 4.6,
-    "away": 1.5
+    "home": 5.78,
+    "draw": 4.7,
+    "away": 1.49
    },
    "totals": [
     {
@@ -166,19 +166,19 @@
     },
     {
      "point": 3.0,
-     "over": 1.69,
-     "under": 2.16,
+     "over": 1.65,
+     "under": 2.26,
      "n": 1
     },
     {
      "point": 3.25,
-     "over": 1.89,
-     "under": 2.0,
+     "over": 1.92,
+     "under": 1.97,
      "n": 1
     },
     {
      "point": 3.5,
-     "over": 2.1,
+     "over": 2.11,
      "under": 1.71,
      "n": 11
     }
@@ -191,33 +191,33 @@
    "n_books": 23,
    "h2h": {
     "home": 3.9,
-    "draw": 4.0,
+    "draw": 4.08,
     "away": 1.8
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.46,
-     "under": 2.68,
+     "over": 1.48,
+     "under": 2.62,
      "n": 3
     },
     {
      "point": 3.0,
-     "over": 1.71,
-     "under": 2.13,
-     "n": 1
+     "over": 1.735,
+     "under": 2.105,
+     "n": 2
     },
     {
      "point": 3.25,
-     "over": 1.98,
-     "under": 1.91,
+     "over": 2.01,
+     "under": 1.88,
      "n": 1
     },
     {
      "point": 3.5,
-     "over": 2.2,
-     "under": 1.66,
-     "n": 11
+     "over": 2.21,
+     "under": 1.65,
+     "n": 10
     }
    ]
   },
@@ -227,9 +227,9 @@
    "away": "FSV Mainz 05",
    "n_books": 23,
    "h2h": {
-    "home": 2.68,
-    "draw": 3.8,
-    "away": 2.35
+    "home": 2.62,
+    "draw": 3.85,
+    "away": 2.38
    },
    "totals": [
     {
@@ -241,13 +241,13 @@
     {
      "point": 3.25,
      "over": 1.85,
-     "under": 2.04,
+     "under": 2.05,
      "n": 1
     },
     {
      "point": 3.5,
      "over": 2.02,
-     "under": 1.74,
+     "under": 1.75,
      "n": 11
     }
    ]
@@ -260,7 +260,7 @@
    "h2h": {
     "home": 1.65,
     "draw": 4.22,
-    "away": 4.55
+    "away": 4.6
    },
    "totals": [
     {
@@ -272,13 +272,13 @@
     {
      "point": 3.0,
      "over": 1.86,
-     "under": 2.01,
+     "under": 2.02,
      "n": 3
     },
     {
      "point": 3.5,
      "over": 2.305,
-     "under": 1.6,
+     "under": 1.605,
      "n": 10
     }
    ]
@@ -287,13 +287,19 @@
    "commence": "2026-11-27T19:30:00Z",
    "home": "Werder Bremen",
    "away": "Borussia Monchengladbach",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
     "home": 1.75,
-    "draw": 4.2,
-    "away": 4.1
+    "draw": 3.93,
+    "away": 4.0
    },
    "totals": [
+    {
+     "point": 2.5,
+     "over": 1.44,
+     "under": 2.62,
+     "n": 1
+    },
     {
      "point": 3.0,
      "over": 1.76,
@@ -312,13 +318,19 @@
    "commence": "2026-11-28T14:30:00Z",
    "home": "1. FC Köln",
    "away": "Elversberg",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
-    "home": 1.94,
-    "draw": 3.89,
-    "away": 3.45
+    "home": 1.95,
+    "draw": 3.8,
+    "away": 3.3
    },
    "totals": [
+    {
+     "point": 2.5,
+     "over": 1.5,
+     "under": 2.5,
+     "n": 1
+    },
     {
      "point": 3.25,
      "over": 2.05,
@@ -328,7 +340,7 @@
     {
      "point": 3.5,
      "over": 2.2,
-     "under": 1.66,
+     "under": 1.65,
      "n": 7
     }
    ]
@@ -337,13 +349,19 @@
    "commence": "2026-11-28T14:30:00Z",
    "home": "Hamburger SV",
    "away": "Bayern Munich",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
-    "home": 15.5,
-    "draw": 10.0,
-    "away": 1.11
+    "home": 15.0,
+    "draw": 9.6,
+    "away": 1.12
    },
    "totals": [
+    {
+     "point": 2.5,
+     "over": 1.15,
+     "under": 4.75,
+     "n": 1
+    },
     {
      "point": 4.25,
      "over": 1.9,
@@ -362,18 +380,18 @@
    "commence": "2026-11-28T14:30:00Z",
    "home": "SC Paderborn",
    "away": "FC Schalke 04",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
-    "home": 2.34,
-    "draw": 3.4,
-    "away": 2.9
+    "home": 2.3,
+    "draw": 3.39,
+    "away": 2.8
    },
    "totals": [
     {
      "point": 2.5,
-     "over": 1.7,
-     "under": 2.05,
-     "n": 7
+     "over": 1.715,
+     "under": 2.035,
+     "n": 8
     },
     {
      "point": 2.75,
@@ -387,13 +405,19 @@
    "commence": "2026-11-28T14:30:00Z",
    "home": "FSV Mainz 05",
    "away": "Union Berlin",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
     "home": 1.47,
-    "draw": 4.65,
-    "away": 5.95
+    "draw": 4.5,
+    "away": 5.8
    },
    "totals": [
+    {
+     "point": 2.5,
+     "over": 1.5,
+     "under": 2.5,
+     "n": 1
+    },
     {
      "point": 3.0,
      "over": 1.87,
@@ -402,8 +426,8 @@
     },
     {
      "point": 3.5,
-     "over": 2.3,
-     "under": 1.61,
+     "over": 2.25,
+     "under": 1.62,
      "n": 7
     }
    ]
@@ -443,13 +467,19 @@
    "commence": "2026-11-29T14:30:00Z",
    "home": "SC Freiburg",
    "away": "RB Leipzig",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
-    "home": 2.48,
-    "draw": 3.89,
-    "away": 2.44
+    "home": 2.45,
+    "draw": 3.8,
+    "away": 2.46
    },
    "totals": [
+    {
+     "point": 2.5,
+     "over": 1.4,
+     "under": 2.75,
+     "n": 1
+    },
     {
      "point": 3.25,
      "over": 1.87,
@@ -468,13 +498,19 @@
    "commence": "2026-11-29T16:30:00Z",
    "home": "TSG Hoffenheim",
    "away": "Augsburg",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
     "home": 1.67,
-    "draw": 4.6,
-    "away": 4.1
+    "draw": 4.33,
+    "away": 4.0
    },
    "totals": [
+    {
+     "point": 2.5,
+     "over": 1.3,
+     "under": 3.4,
+     "n": 1
+    },
     {
      "point": 3.5,
      "over": 1.73,
@@ -487,13 +523,19 @@
    "commence": "2026-11-29T18:30:00Z",
    "home": "Borussia Dortmund",
    "away": "Bayer Leverkusen",
-   "n_books": 13,
+   "n_books": 15,
    "h2h": {
-    "home": 2.08,
-    "draw": 3.9,
-    "away": 3.05
+    "home": 2.1,
+    "draw": 3.7,
+    "away": 3.0
    },
    "totals": [
+    {
+     "point": 2.5,
+     "over": 1.44,
+     "under": 2.62,
+     "n": 1
+    },
     {
      "point": 3.25,
      "over": 1.99,
